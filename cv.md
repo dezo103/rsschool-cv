@@ -37,3 +37,7 @@ My other code examples you can see in my website [http://myfrontend.by](http://m
 
 My experience include all my works, which are presented in my website. And now I have part time job in web-studio as a HTML-coder (Landing pages and CMS WordPress).
 
+My education: 
+* 2009 - Molodechno State Medical College, 
+* 2015 - Belarussian State University (biologist), 
+* 2019 - School of buisness of BSU (programmer and Web-designer) and some online courses such as HTML-academy, Codecademy, Enki, SoloLearn.
