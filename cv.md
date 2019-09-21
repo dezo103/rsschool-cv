@@ -11,3 +11,24 @@ I am looking for a fulltime job as HTML-developer or Frontend-developer. I wish 
 
 My skills: HTML5, CSS3, JQUERY, Bootstrap4, CMS Wordpress, Photoshop, Adobe Animate, 3D MAX, CorelDraw, Git.
 
+My code examples:  
+```javascript
+$(function() {
+         /*выпадающее меню*/
+         var h = document.getElementsByClassName('menu-item');
+	    h[0].addEventListener("mouseover", showSub, false);
+	    h[0].addEventListener("mouseout", hideSub, false);
+
+	    function showSub(){
+	    	var i = document.getElementsByClassName('submenu');
+	    	i[0].style.display = "block";
+	    };
+
+	    function hideSub(){
+	    	var i = document.getElementsByClassName('submenu');
+	    	i[0].style.display = "none";
+	    };
+  
+  });
+
+```
