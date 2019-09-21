@@ -41,3 +41,5 @@ My education:
 * 2009 - Molodechno State Medical College, 
 * 2015 - Belarussian State University (biologist), 
 * 2019 - School of buisness of BSU (programmer and Web-designer) and some online courses such as HTML-academy, Codecademy, Enki, SoloLearn.
+
+I think, that my English level is Pre-Intermediate. I can read English adaptive literature, can speak in English for understanding each other, but English grammar is trouble for me. I can read technical documentation in English using duolingo extension for Chrome.I studied English in depth at the school. Now I learn English by Duolingo.
