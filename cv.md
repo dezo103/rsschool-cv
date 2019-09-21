@@ -34,3 +34,6 @@ $(function() {
 ```  
 
 My other code examples you can see in my website [http://myfrontend.by](http://myfrontend.by)
+
+My experience include all my works, which are presented in my website. And now I have part time job in web-studio as a HTML-coder (Landing pages and CMS WordPress).
+
