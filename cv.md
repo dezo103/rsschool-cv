@@ -7,4 +7,7 @@ mail: dezo103@gmail.com
 tel: +375297895690  
 adress: Belarus, Minsk region, Molodechno city, F.Skoriny str. 10 - 33  
 
-I am looking for a fulltime job as HTML-developer or Frontend-developer. I wish to work only in office at once. Training and continuous development are important for me. I want to change my profession, because frontend-development is very interesting for me and this is more perspective than my job in a ambulance. I'm tried of my job and I want to sleep at night))))
+I am looking for a fulltime job as HTML-developer or Frontend-developer. I wish to work only in office at once. Training and continuous development are important for me. I want to change my profession, because frontend-development is very interesting for me and this is more perspective than my job in an ambulance. I'm tried of my job and I want to sleep at night))))
+
+My skills: HTML5, CSS3, JQUERY, Bootstrap4, CMS Wordpress, Photoshop, Adobe Animate, 3D MAX, CorelDraw, Git.
+
